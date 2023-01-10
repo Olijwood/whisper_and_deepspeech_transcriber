@@ -12,6 +12,7 @@ Flask,
 Flask-cors,
 webrtcvad,
 Contextlib,
-Moviepy
+Moviepy,
+Ray
 
 Once you've uploaded the audio file, after a few minutes you should see the Whisper Transcription on the left and the DeepSpeech Transcription on the right. This works with longer audio_files such as podcasts too.
